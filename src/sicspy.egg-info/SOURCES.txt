@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/sicspy/__init__.py
+src/sicspy/py.typed
+src/sicspy/sicspym.py
+src/sicspy.egg-info/PKG-INFO
+src/sicspy.egg-info/SOURCES.txt
+src/sicspy.egg-info/dependency_links.txt
+src/sicspy.egg-info/not-zip-safe
+src/sicspy.egg-info/requires.txt
+src/sicspy.egg-info/top_level.txt
+src/sicspy/sicspyem/__init__.py
+src/sicspy/sicspyem/sicspyem.pyd

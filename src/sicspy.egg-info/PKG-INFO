@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: sicspy
+Version: 0.0.1
+Summary: Python package with SICS C++ extension (PyBind11)
+Home-page: https://github.com/pypa/sampleproject
+Author: Bojan Ilic
+Author-email: bi4528@student.uni-lj.si
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.9 :: Only
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Requires-Python: ==3.9
+Description-Content-Type: text/markdown
+Provides-Extra: testing
+License-File: LICENSE
+
+UNKNOWN
+
