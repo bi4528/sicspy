@@ -19,8 +19,8 @@ Simple example
     >>> n = Graph("adjacency_listmat", "undirected_tag", 4)
     >>> n.set_vertex_label(0, "red")
     >>> n.set_vertex_label(1, "blue")
-    >>> n.set_vertex_label(2, "gree>>> n.)
-    >>> n.set_vertex_label(3, "gree>>> n.)
+    >>> n.set_vertex_label(2, "green")
+    >>> n.set_vertex_label(3, "green")
     >>> n.add_edge(0, 1)
     >>> n.add_edge(1, 2)
     >>> n.add_edge(2, 0)
@@ -65,7 +65,7 @@ Install
 
 Install the latest version of sicspy::
 
-    $ pip install -i https://test.pypi.org/simple/ sicspy==0.0.1
+    $ pip install -i https://test.pypi.org/simple/ sicspy
 
 License
 -------
