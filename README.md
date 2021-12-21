@@ -65,7 +65,7 @@ Install
 
 Install the latest version of sicspy::
 
-    $ pip install -i https://test.pypi.org/simple/ sicspy
+    $ pip install -i https://test.pypi.org/simple/ sicspy==0.0.1
 
 License
 -------
