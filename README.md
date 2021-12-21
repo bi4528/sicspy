@@ -8,7 +8,7 @@ Simple example
 
 .. code:: python
 
-    >>> from sicspym import Graph, SicsAlgorithms
+    >>> from sicspym import Graph, SicsAlgorithms, read_amalfi
     >>> m = Graph("adjacency_listmat", "undirected_tag", 3)
     >>> m.set_vertex_label(0, "red")
     >>> m.set_vertex_label(1, "blue")
@@ -16,7 +16,7 @@ Simple example
     >>> m.add_edge(0, 1)
     >>> m.add_edge(1, 2)
     >>> m.add_edge(2, 0)
-    >>> n = Graph("adjace>>> n.y_listmat", "u>>> n.irected_tag", 4)
+    >>> n = Graph("adjacency_listmat", "undirected_tag", 4)
     >>> n.set_vertex_label(0, "red")
     >>> n.set_vertex_label(1, "blue")
     >>> n.set_vertex_label(2, "gree>>> n.)
