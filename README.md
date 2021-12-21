@@ -1,7 +1,7 @@
-sicspy
+SicsPy
 ========
 
-sicspy is Python package developed for algorithms for solving the Subgraph Isomorphism Constraint Satisfaction problem.
+SicsPy is Python package developed for algorithms for solving the Subgraph Isomorphism Constraint Satisfaction problem.
 
 Simple example
 --------------
@@ -58,7 +58,7 @@ Find the shortest path between two nodes in an undirected graph:
 Test
 -------
 
-Run pytest command when you inside sicpy directory::
+Run pytest command when you inside sicspy directory::
     
     $ pytest
 
