@@ -6,8 +6,6 @@ SicsPy is Python package developed for algorithms for solving the Subgraph Isomo
 Simple example
 --------------
 
-Find the shortest path between two nodes in an undirected graph:
-
 .. code:: python
 
     >>> from sicspym import Graph, SicsAlgorithms
